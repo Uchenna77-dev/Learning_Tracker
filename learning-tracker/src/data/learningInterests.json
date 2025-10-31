@@ -1,0 +1,52 @@
+[
+  {
+    "interest": "Web Development",
+    "suggestions": [
+      "Master Next.js with TypeScript",
+      "Build RESTful APIs using Node.js & Express",
+      "Explore Tailwind CSS for rapid UI development",
+      "Learn GraphQL for efficient data fetching",
+      "Understand React Server Components"
+    ]
+  },
+  {
+    "interest": "Data Science",
+    "suggestions": [
+      "Learn Python for Data Analysis",
+      "Master Pandas and NumPy",
+      "Explore Machine Learning with Scikit-Learn",
+      "Visualize data using Matplotlib & Seaborn",
+      "Build a predictive model with TensorFlow"
+    ]
+  },
+  {
+    "interest": "Cloud Computing",
+    "suggestions": [
+      "Get started with AWS Cloud Practitioner",
+      "Learn Azure fundamentals",
+      "Understand Docker & Kubernetes basics",
+      "Deploy apps using Google Cloud Run",
+      "Set up CI/CD pipelines with GitHub Actions"
+    ]
+  },
+  {
+    "interest": "Cybersecurity",
+    "suggestions": [
+      "Understand network security fundamentals",
+      "Learn ethical hacking basics",
+      "Practice penetration testing techniques",
+      "Study cryptography essentials",
+      "Explore cybersecurity incident response"
+    ]
+  },
+  {
+    "interest": "Mobile Development",
+    "suggestions": [
+      "Learn Kotlin for Android development",
+      "Explore Swift for iOS development",
+      "Build cross-platform apps with Flutter",
+      "Master React Native fundamentals",
+      "Publish your first mobile app to Play Store"
+    ]
+  }
+]
